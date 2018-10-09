@@ -1,0 +1,8 @@
+.blue {
+  background: lightblue;
+}
+
+.darkTheme, .darkTheme h2, .darkTheme h1{
+  background: #292929;
+  color: #c2c2c2;
+}
